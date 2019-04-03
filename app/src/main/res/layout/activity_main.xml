@@ -67,5 +67,17 @@
         android:layout_marginBottom="149dp"
         android:text="5" />
 
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="112dp"
+        android:layout_height="76dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="504dp"
+        android:layout_marginEnd="187dp"
+        android:layout_marginRight="187dp"
+        android:text="6" />
+
 
 </RelativeLayout>
