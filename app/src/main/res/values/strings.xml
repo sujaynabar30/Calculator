@@ -17,4 +17,6 @@
     <string name="Btn_div">÷</string>
     <string name="Btn_equal">=</string>
     <string name="Btn_clear">C</string>
+    <string name="Tv_Result">Result</string>
+    <string name="Tv_Control">Control</string>
 </resources>
