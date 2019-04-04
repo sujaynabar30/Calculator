@@ -17,7 +17,7 @@
         android:layout_marginStart="0dp"
         android:layout_marginLeft="0dp"
         android:layout_marginBottom="0dp"
-        android:text="0" />
+        android:text="@integer/Btn_0" />
 
     <Button
         android:id="@+id/Btn1"
@@ -28,8 +28,8 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
         android:layout_marginLeft="0dp"
-        android:layout_marginBottom="89dp"
-        android:text="1" />
+        android:layout_marginBottom="92dp"
+        android:text="@integer/Btn_1" />
 
     <Button
         android:id="@+id/Btn2"
@@ -38,10 +38,10 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginStart="114dp"
-        android:layout_marginLeft="114dp"
-        android:layout_marginBottom="93dp"
-        android:text="2" />
+        android:layout_marginStart="112dp"
+        android:layout_marginLeft="112dp"
+        android:layout_marginBottom="92dp"
+        android:text="@integer/Btn_2" />
 
     <Button
         android:id="@+id/Btn3"
@@ -50,10 +50,10 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="70dp"
-        android:layout_marginRight="70dp"
-        android:layout_marginBottom="94dp"
-        android:text="3" />
+        android:layout_marginEnd="75dp"
+        android:layout_marginRight="75dp"
+        android:layout_marginBottom="92dp"
+        android:text="@integer/Btn_3" />
 
     <Button
         android:id="@+id/Btn4"
@@ -64,8 +64,8 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
         android:layout_marginLeft="0dp"
-        android:layout_marginBottom="188dp"
-        android:text="4" />
+        android:layout_marginBottom="183dp"
+        android:text="@integer/Btn_4" />
 
     <Button
         android:id="@+id/Btn5"
@@ -74,10 +74,10 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="454dp"
-        android:layout_marginEnd="189dp"
-        android:layout_marginRight="189dp"
-        android:text="5" />
+        android:layout_marginTop="329dp"
+        android:layout_marginEnd="187dp"
+        android:layout_marginRight="187dp"
+        android:text="@integer/Btn_5" />
 
     <Button
         android:id="@+id/Btn6"
@@ -86,10 +86,10 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="76dp"
-        android:layout_marginRight="76dp"
-        android:layout_marginBottom="188dp"
-        android:text="6" />
+        android:layout_marginEnd="75dp"
+        android:layout_marginRight="75dp"
+        android:layout_marginBottom="183dp"
+        android:text="@integer/Btn_6" />
 
     <Button
         android:id="@+id/Btn7"
@@ -100,8 +100,8 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
         android:layout_marginLeft="0dp"
-        android:layout_marginBottom="279dp"
-        android:text="7" />
+        android:layout_marginBottom="273dp"
+        android:text="@integer/Btn_7" />
 
     <Button
         android:id="@+id/Btn8"
@@ -112,8 +112,8 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="112dp"
         android:layout_marginLeft="112dp"
-        android:layout_marginBottom="280dp"
-        android:text="8" />
+        android:layout_marginBottom="273dp"
+        android:text="@integer/Btn_8" />
 
     <Button
         android:id="@+id/Btn9"
@@ -122,94 +122,94 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="357dp"
-        android:layout_marginEnd="77dp"
-        android:layout_marginRight="77dp"
-        android:text="9" />
+        android:layout_marginTop="239dp"
+        android:layout_marginEnd="75dp"
+        android:layout_marginRight="75dp"
+        android:text="@integer/Btn_9" />
 
     <Button
         android:id="@+id/Btn10"
-        android:layout_width="113dp"
-        android:layout_height="87dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginTop="644dp"
-        android:layout_marginEnd="184dp"
-        android:layout_marginRight="184dp"
-        android:text="." />
-
-    <Button
-        android:id="@+id/Btn11"
-        android:layout_width="108dp"
+        android:layout_width="112dp"
         android:layout_height="90dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginTop="642dp"
-        android:layout_marginEnd="79dp"
-        android:layout_marginRight="79dp"
-        android:text="=" />
+        android:layout_marginTop="511dp"
+        android:layout_marginEnd="187dp"
+        android:layout_marginRight="187dp"
+        android:text="@string/Btn_dot" />
+
+    <Button
+        android:id="@+id/Btn11"
+        android:layout_width="112dp"
+        android:layout_height="89dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="511dp"
+        android:layout_marginEnd="75dp"
+        android:layout_marginRight="75dp"
+        android:text="@string/Btn_equal" />
 
     <Button
         android:id="@+id/Btn12"
         android:layout_width="wrap_content"
-        android:layout_height="76dp"
+        android:layout_height="69dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
-        android:layout_marginTop="432dp"
-        android:text="÷" />
+        android:layout_marginTop="335dp"
+        android:text="@string/Btn_div" />
 
     <Button
         android:id="@+id/Btn13"
         android:layout_width="wrap_content"
-        android:layout_height="76dp"
+        android:layout_height="69dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
-        android:layout_marginTop="503dp"
-        android:text="×" />
+        android:layout_marginTop="404dp"
+        android:text="@string/Btn_mult" />
 
     <Button
         android:id="@+id/Btn14"
-        android:layout_width="wrap_content"
-        android:layout_height="76dp"
+        android:layout_width="75dp"
+        android:layout_height="66dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
-        android:layout_marginTop="579dp"
-        android:text="-" />
+        android:layout_marginTop="473dp"
+        android:text="@string/Btn_sub" />
 
     <Button
         android:id="@+id/Btn15"
-        android:layout_width="wrap_content"
-        android:layout_height="76dp"
+        android:layout_width="75dp"
+        android:layout_height="64dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
-        android:layout_marginTop="655dp"
-        android:text="+" />
+        android:layout_marginTop="539dp"
+        android:text="@string/Btn_add" />
 
     <Button
         android:id="@+id/Btn16"
         android:layout_width="wrap_content"
-        android:layout_height="76dp"
+        android:layout_height="97dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
-        android:layout_marginTop="355dp"
-        android:text="C" />
+        android:layout_marginTop="238dp"
+        android:text="@string/Btn_clear" />
 
 
 </RelativeLayout>

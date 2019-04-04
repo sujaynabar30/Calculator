@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <integer name="Btn_0">0</integer>
+    <integer name="Btn_1">1</integer>
+    <integer name="Btn_2">2</integer>
+    <integer name="Btn_3">3</integer>
+    <integer name="Btn_4">4</integer>
+    <integer name="Btn_5">5</integer>
+    <integer name="Btn_6">6</integer>
+    <integer name="Btn_7">7</integer>
+    <integer name="Btn_8">8</integer>
+    <integer name="Btn_9">9</integer>
+    <string name="Btn_dot">.</string>
+    <string name="Btn_add">+</string>
+    <string name="Btn_sub">-</string>
+    <string name="Btn_mult">×</string>
+    <string name="Btn_div">÷</string>
+    <string name="Btn_equal">=</string>
+    <string name="Btn_clear">C</string>
 </resources>
