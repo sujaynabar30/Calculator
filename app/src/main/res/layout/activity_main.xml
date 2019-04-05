@@ -28,7 +28,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
         android:layout_marginLeft="0dp"
-        android:layout_marginBottom="92dp"
+        android:layout_marginBottom="90dp"
         android:text="@integer/Btn_1" />
 
     <Button
@@ -47,12 +47,14 @@
         android:id="@+id/Btn3"
         android:layout_width="112dp"
         android:layout_height="91dp"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
         android:layout_alignParentBottom="true"
+        android:layout_marginStart="224dp"
+        android:layout_marginLeft="224dp"
         android:layout_marginEnd="75dp"
         android:layout_marginRight="75dp"
-        android:layout_marginBottom="92dp"
+        android:layout_marginBottom="93dp"
         android:text="@integer/Btn_3" />
 
     <Button
@@ -71,21 +73,26 @@
         android:id="@+id/Btn5"
         android:layout_width="112dp"
         android:layout_height="91dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="112dp"
+        android:layout_marginLeft="112dp"
         android:layout_marginTop="329dp"
         android:layout_marginEnd="187dp"
         android:layout_marginRight="187dp"
+        android:layout_marginBottom="182dp"
         android:text="@integer/Btn_5" />
 
     <Button
         android:id="@+id/Btn6"
         android:layout_width="112dp"
         android:layout_height="91dp"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
         android:layout_alignParentBottom="true"
+        android:layout_marginStart="226dp"
+        android:layout_marginLeft="226dp"
         android:layout_marginEnd="75dp"
         android:layout_marginRight="75dp"
         android:layout_marginBottom="183dp"
@@ -119,36 +126,45 @@
         android:id="@+id/Btn9"
         android:layout_width="112dp"
         android:layout_height="91dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="224dp"
+        android:layout_marginLeft="224dp"
         android:layout_marginTop="239dp"
         android:layout_marginEnd="75dp"
         android:layout_marginRight="75dp"
+        android:layout_marginBottom="273dp"
         android:text="@integer/Btn_9" />
 
     <Button
         android:id="@+id/Btn10"
         android:layout_width="112dp"
         android:layout_height="90dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="114dp"
+        android:layout_marginLeft="114dp"
         android:layout_marginTop="511dp"
         android:layout_marginEnd="187dp"
         android:layout_marginRight="187dp"
+        android:layout_marginBottom="0dp"
         android:text="@string/Btn_dot" />
 
     <Button
         android:id="@+id/Btn11"
         android:layout_width="112dp"
         android:layout_height="89dp"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="226dp"
+        android:layout_marginLeft="226dp"
         android:layout_marginTop="511dp"
         android:layout_marginEnd="75dp"
         android:layout_marginRight="75dp"
+        android:layout_marginBottom="0dp"
         android:text="@string/Btn_equal" />
 
     <Button
@@ -157,10 +173,11 @@
         android:layout_height="69dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
         android:layout_marginTop="335dp"
+        android:layout_marginBottom="200dp"
         android:text="@string/Btn_div" />
 
     <Button
@@ -169,10 +186,11 @@
         android:layout_height="69dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
         android:layout_marginTop="404dp"
+        android:layout_marginBottom="130dp"
         android:text="@string/Btn_mult" />
 
     <Button
@@ -181,10 +199,11 @@
         android:layout_height="66dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
         android:layout_marginTop="473dp"
+        android:layout_marginBottom="64dp"
         android:text="@string/Btn_sub" />
 
     <Button
@@ -193,7 +212,7 @@
         android:layout_height="64dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
         android:layout_marginTop="539dp"
@@ -205,10 +224,11 @@
         android:layout_height="97dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
         android:layout_marginStart="336dp"
         android:layout_marginLeft="336dp"
         android:layout_marginTop="238dp"
+        android:layout_marginBottom="268dp"
         android:text="@string/Btn_clear" />
 
     <TextView
@@ -221,8 +241,8 @@
         android:layout_marginTop="17dp"
         android:layout_marginEnd="0dp"
         android:layout_marginRight="0dp"
-        android:textSize="25sp"
-        android:text="@string/Tv_Result" />
+        android:text="@string/Tv_Result"
+        android:textSize="25sp" />
 
     <TextView
         android:id="@+id/tv_control"
@@ -234,8 +254,8 @@
         android:layout_marginTop="123dp"
         android:layout_marginEnd="0dp"
         android:layout_marginRight="0dp"
-        android:textSize="25sp"
-        android:text="@string/Tv_Control" />
+        android:text="@string/Tv_Control"
+        android:textSize="25sp" />
 
 
 </RelativeLayout>
